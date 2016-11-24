@@ -1,0 +1,104 @@
+.container{
+	background-color:#F7F9F9
+;
+}
+header{
+	
+	position: fixed;
+	font-family: 'Lobster', cursive;
+	background-color:#D4E6F1;
+}
+h2
+{
+	font-size: 40px;
+	color:black;
+
+}
+.main{
+	padding-top:80px;
+}
+.main img
+{
+	width:300px;
+	height: 250px;
+}
+nav  li {
+	display:inline;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+ul a
+{
+	text-decoration:none;
+	font-family: monospace;
+	font-size:17px;
+font-weight: bold;
+}
+ul a:hover
+{
+	text-decoration:underline;
+	color:red;
+}
+.center img{
+	margin-left:-10px;
+	min-width: 960px;
+	height: 250px;
+	margin-right:10px;
+}
+.new img
+{
+	width:450px;
+	height:200px;
+}
+.end img {
+	width:50px;
+	height:40px;
+}
+p{
+		font-family: 'Ravi Prakash', cursive;
+ 
+	font-size:17px;
+}
+h1
+{
+	font-family: 'Lobster', cursive;
+
+	font-size: 25px;
+}
+.center h3
+{
+	position:absolute;
+	top:800px;
+	left:200px;
+	font-size:20px;
+    text-transform: uppercase;
+  font-family: monospace;
+  color: red;
+ 
+}
+.button :before
+{
+	content: '(';
+}
+.button :after
+{
+	content:')';
+}
+.end
+{
+	background:#008080;
+	font-family: 'Dancing Script', cursive;
+
+}
+.end a
+{
+text-decoration:none;
+color:black;
+font-size:15px;
+font-family:monospace;
+}
+.end a:hover
+{
+	text-decoration:underline;
+	color:red;
+}

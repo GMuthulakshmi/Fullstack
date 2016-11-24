@@ -1,0 +1,25 @@
+.wrap
+{
+	margin:auto;
+	width:80%;
+}
+.content{
+	background-color:pink;
+	float:left;
+	width:90%;
+	
+}
+aside
+{
+	background-color:green;
+	float:right;
+	width:30%;
+}
+aside,li{
+	list-style: none;
+	padding-left:10px
+}
+.content ,aside
+{
+	height: :600px;
+}
